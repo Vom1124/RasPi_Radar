@@ -1,6 +1,6 @@
 from setuptools import find_packages, setup
 
-package_name = 'yansa_radar'
+package_name = 'DelphiESR_radar'
 
 setup(
     name=package_name,
@@ -19,7 +19,7 @@ setup(
     license='TODO: License declaration',
     tests_require=['pytest'],
     entry_points={
-        'console_scripts': ["right_radar_node=yansa_radar.yansa_radar:main"
+        'console_scripts': ["radar_read=DelphiESR_radar.radar_sub:main"
         ],
     },
 )
