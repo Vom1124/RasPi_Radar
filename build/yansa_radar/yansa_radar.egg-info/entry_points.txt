@@ -1,0 +1,3 @@
+[console_scripts]
+right_radar_node = yansa_radar.yansa_radar:main
+
