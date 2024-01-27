@@ -1,8 +1,8 @@
-# Delphi ESR Radar in Raspberry Pi running in Ubunty 22.04 with ROS2 Humble OS.
+# Delphi ESR Radar in Raspberry Pi running in Ubuntu 22.04 with ROS2 Humble OS.
 
 ## Pre-Requisites:
 
-  Install the required Delphi ESR drivers for ros2 humble OS designed for ARM architecture (for RasPi) using their contact info. In case of regular computers running in AMD architecture, then use the following link:         https://autonomoustuff.atlassian.net/wiki/spaces/RW/pages/17475947/Driver+Pack+Installation+or+Upgrade+Instructions.
+  Install the required Delphi ESR drivers for ros2 humble OS designed for ARM64 architecture (for RasPi) using their contact info. In case of regular computers running in AMD64 architecture, then use the following link:         https://autonomoustuff.atlassian.net/wiki/spaces/RW/pages/17475947/Driver+Pack+Installation+or+Upgrade+Instructions.
 
 ## Starting the drivers:
   Once the drivers are installed, use the following set of codes for the CAN bus communication and starting the nodes.
