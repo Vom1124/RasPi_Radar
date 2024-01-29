@@ -1,0 +1,22 @@
+running develop
+running egg_info
+creating delphi_esr_radar.egg-info
+writing delphi_esr_radar.egg-info/PKG-INFO
+writing dependency_links to delphi_esr_radar.egg-info/dependency_links.txt
+writing entry points to delphi_esr_radar.egg-info/entry_points.txt
+writing requirements to delphi_esr_radar.egg-info/requires.txt
+writing top-level names to delphi_esr_radar.egg-info/top_level.txt
+writing manifest file 'delphi_esr_radar.egg-info/SOURCES.txt'
+reading manifest file 'delphi_esr_radar.egg-info/SOURCES.txt'
+writing manifest file 'delphi_esr_radar.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/vom/ros2_ws/RasPi_Radar/install/delphi_esr_radar/lib/python3.10/site-packages/delphi-esr-radar.egg-link (link to .)
+Installing radar_read script to /home/vom/ros2_ws/RasPi_Radar/install/delphi_esr_radar/lib/yansa_radar
+
+Installed /home/vom/ros2_ws/RasPi_Radar/build/delphi_esr_radar
+running install_data
+creating /home/vom/ros2_ws/RasPi_Radar/install/delphi_esr_radar/share/ament_index
+creating /home/vom/ros2_ws/RasPi_Radar/install/delphi_esr_radar/share/ament_index/resource_index
+creating /home/vom/ros2_ws/RasPi_Radar/install/delphi_esr_radar/share/ament_index/resource_index/packages
+copying resource/delphi_esr_radar -> /home/vom/ros2_ws/RasPi_Radar/install/delphi_esr_radar/share/ament_index/resource_index/packages
+copying package.xml -> /home/vom/ros2_ws/RasPi_Radar/install/delphi_esr_radar/share/delphi_esr_radar

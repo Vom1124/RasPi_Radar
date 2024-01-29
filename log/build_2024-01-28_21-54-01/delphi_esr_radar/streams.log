@@ -1,0 +1,24 @@
+[0.938s] Invoking command in '/home/vom/ros2_ws/RasPi_Radar/build/delphi_esr_radar': PYTHONPATH=/home/vom/ros2_ws/RasPi_Radar/build/delphi_esr_radar/prefix_override:/home/vom/ros2_ws/RasPi_Radar/install/delphi_esr_radar/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/vom/ros2_ws/RasPi_Radar/build/delphi_esr_radar/build --no-deps install_data
+[1.217s] running develop
+[1.409s] running egg_info
+[1.409s] creating delphi_esr_radar.egg-info
+[1.409s] writing delphi_esr_radar.egg-info/PKG-INFO
+[1.409s] writing dependency_links to delphi_esr_radar.egg-info/dependency_links.txt
+[1.409s] writing entry points to delphi_esr_radar.egg-info/entry_points.txt
+[1.409s] writing requirements to delphi_esr_radar.egg-info/requires.txt
+[1.409s] writing top-level names to delphi_esr_radar.egg-info/top_level.txt
+[1.410s] writing manifest file 'delphi_esr_radar.egg-info/SOURCES.txt'
+[1.411s] reading manifest file 'delphi_esr_radar.egg-info/SOURCES.txt'
+[1.412s] writing manifest file 'delphi_esr_radar.egg-info/SOURCES.txt'
+[1.414s] running build_ext
+[1.414s] Creating /home/vom/ros2_ws/RasPi_Radar/install/delphi_esr_radar/lib/python3.10/site-packages/delphi-esr-radar.egg-link (link to .)
+[1.414s] Installing radar_read script to /home/vom/ros2_ws/RasPi_Radar/install/delphi_esr_radar/lib/yansa_radar
+[1.414s] 
+[1.415s] Installed /home/vom/ros2_ws/RasPi_Radar/build/delphi_esr_radar
+[1.415s] running install_data
+[1.415s] creating /home/vom/ros2_ws/RasPi_Radar/install/delphi_esr_radar/share/ament_index
+[1.415s] creating /home/vom/ros2_ws/RasPi_Radar/install/delphi_esr_radar/share/ament_index/resource_index
+[1.415s] creating /home/vom/ros2_ws/RasPi_Radar/install/delphi_esr_radar/share/ament_index/resource_index/packages
+[1.415s] copying resource/delphi_esr_radar -> /home/vom/ros2_ws/RasPi_Radar/install/delphi_esr_radar/share/ament_index/resource_index/packages
+[1.415s] copying package.xml -> /home/vom/ros2_ws/RasPi_Radar/install/delphi_esr_radar/share/delphi_esr_radar
+[1.437s] Invoked command in '/home/vom/ros2_ws/RasPi_Radar/build/delphi_esr_radar' returned '0': PYTHONPATH=/home/vom/ros2_ws/RasPi_Radar/build/delphi_esr_radar/prefix_override:/home/vom/ros2_ws/RasPi_Radar/install/delphi_esr_radar/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/vom/ros2_ws/RasPi_Radar/build/delphi_esr_radar/build --no-deps install_data

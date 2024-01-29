@@ -1,0 +1,23 @@
+[0.917s] Invoking command in '/home/vom/ros2_ws/RasPi_Radar/build/DelphiESR_radar': PYTHONPATH=/home/vom/ros2_ws/RasPi_Radar/build/DelphiESR_radar/prefix_override:/home/vom/ros2_ws/RasPi_Radar/install/DelphiESR_radar/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/vom/ros2_ws/RasPi_Radar/build/DelphiESR_radar/build --no-deps install_data
+[1.203s] running develop
+[1.403s] running egg_info
+[1.403s] creating DelphiESR_radar.egg-info
+[1.404s] writing DelphiESR_radar.egg-info/PKG-INFO
+[1.404s] writing dependency_links to DelphiESR_radar.egg-info/dependency_links.txt
+[1.404s] writing entry points to DelphiESR_radar.egg-info/entry_points.txt
+[1.405s] writing requirements to DelphiESR_radar.egg-info/requires.txt
+[1.405s] writing top-level names to DelphiESR_radar.egg-info/top_level.txt
+[1.405s] writing manifest file 'DelphiESR_radar.egg-info/SOURCES.txt'
+[1.407s] reading manifest file 'DelphiESR_radar.egg-info/SOURCES.txt'
+[1.408s] writing manifest file 'DelphiESR_radar.egg-info/SOURCES.txt'
+[1.409s] running build_ext
+[1.410s] Creating /home/vom/ros2_ws/RasPi_Radar/install/DelphiESR_radar/lib/python3.10/site-packages/DelphiESR-radar.egg-link (link to .)
+[1.411s] Installing radar_read script to /home/vom/ros2_ws/RasPi_Radar/install/DelphiESR_radar/lib/yansa_radar
+[1.411s] 
+[1.411s] Installed /home/vom/ros2_ws/RasPi_Radar/build/DelphiESR_radar
+[1.411s] running install_data
+[1.411s] creating /home/vom/ros2_ws/RasPi_Radar/install/DelphiESR_radar/share/ament_index
+[1.412s] creating /home/vom/ros2_ws/RasPi_Radar/install/DelphiESR_radar/share/ament_index/resource_index
+[1.412s] creating /home/vom/ros2_ws/RasPi_Radar/install/DelphiESR_radar/share/ament_index/resource_index/packages
+[1.412s] error: can't copy 'resource/DelphiESR_radar': doesn't exist or not a regular file
+[1.444s] Invoked command in '/home/vom/ros2_ws/RasPi_Radar/build/DelphiESR_radar' returned '1': PYTHONPATH=/home/vom/ros2_ws/RasPi_Radar/build/DelphiESR_radar/prefix_override:/home/vom/ros2_ws/RasPi_Radar/install/DelphiESR_radar/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/vom/ros2_ws/RasPi_Radar/build/DelphiESR_radar/build --no-deps install_data

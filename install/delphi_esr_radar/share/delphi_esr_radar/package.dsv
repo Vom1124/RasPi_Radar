@@ -1,0 +1,9 @@
+source;share/delphi_esr_radar/hook/pythonpath.ps1
+source;share/delphi_esr_radar/hook/pythonpath.dsv
+source;share/delphi_esr_radar/hook/pythonpath.sh
+source;share/delphi_esr_radar/hook/ament_prefix_path.ps1
+source;share/delphi_esr_radar/hook/ament_prefix_path.dsv
+source;share/delphi_esr_radar/hook/ament_prefix_path.sh
+source;../../build/delphi_esr_radar/share/delphi_esr_radar/hook/pythonpath_develop.ps1
+source;../../build/delphi_esr_radar/share/delphi_esr_radar/hook/pythonpath_develop.dsv
+source;../../build/delphi_esr_radar/share/delphi_esr_radar/hook/pythonpath_develop.sh
